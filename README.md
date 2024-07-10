@@ -1,12 +1,12 @@
-# GIF Creation Project
+# Create a GIF with Python - Codédex Project
 
-Create animated GIFs from multiple images with Python using Pillow and imageio.
+hi y'all! i created an animated from multiple images with Python using Pillow and imageio. hope you like it :) #mrfrogforpresident2024
 
 ![Example GIF](mrfrog.gif)
 
 ## Installation
 
-Ensure you have Python and pip installed. Clone the repository and install dependencies.
+ensure you have Python and pip installed. clone the repository and install dependencies.
 
 ```bash
 git clone https://github.com/haileyrthomas01/creategif.git
